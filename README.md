@@ -86,6 +86,7 @@ This repository contains:
 
 * `README.md`: Summary of the SOC mid-term progress and verification method.
 * `Report.md`: Detailed mid-term report explaining what I learned from the 5 group contests.
+- `template.cpp`: My commonly used C++ competitive programming template. It contains basic macros, utility functions, fast I/O setup, and standard templates for DFS, BFS, and DSU, which I used/revised during the project.
 
 ## Current Status
 
